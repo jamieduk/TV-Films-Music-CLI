@@ -1,15 +1,16 @@
 
 
+Bash RC Function Example
 
-
-
+sudo edit ~/.bashrc
 
 # Bash rc function for TV
 function tv(){
-bash /home/jay/Documents/Scripts/BASH/TV/start.sh
+bash /home/jay/Documents/Scripts/PYTHON/TV/start.sh
 }
 
 
-
+Now you can start with:
+tv
 
 
