@@ -16,7 +16,7 @@ sudo edit ~/.bashrc
 
 # Bash rc function for TV
 function tv(){
-bash /home/jay/Documents/Scripts/PYTHON/TV/start.sh
+bash /home/YOUR-USERNAME/Documents/Scripts/PYTHON/TV/start.sh # Change username!!!
 }
 
 
