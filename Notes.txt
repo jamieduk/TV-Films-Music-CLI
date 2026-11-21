@@ -1,0 +1,15 @@
+
+
+
+
+
+
+# Bash rc function for TV
+function tv(){
+bash /home/jay/Documents/Scripts/BASH/TV/start.sh
+}
+
+
+
+
+
