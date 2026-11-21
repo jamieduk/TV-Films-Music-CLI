@@ -1,3 +1,13 @@
+TV Films Music MPV CLI
+
+
+chmod +x *.sh
+
+./setup.sh
+
+
+
+./start.sh
 
 
 Bash RC Function Example
